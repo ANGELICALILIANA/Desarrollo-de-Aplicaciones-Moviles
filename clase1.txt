@@ -1,8 +1,10 @@
 Esta es la preparación para la clase de git 
 Esta clase es para 25 estudiantes
 y para la especialización 
-desarrllo de aplicaciones móviles.
+desarrollo de aplicaciones móviles.
 
 Espero que a este grupo de guste mi clase y sean juiciosos 
 
 Exitos para que todos se certifiquen
+
+Saludos
